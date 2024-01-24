@@ -18,18 +18,6 @@ The project is distributed using spring microservice architecture
 - Inventory Service
 - Billing Service
 
-## Report
-
-[embed]https://drive.google.com/file/d/161TQKIJqZMYSm1LrQZzB5kFEzAgyN2iU/view?usp=share_link[/embed]
-
-### Github Report Link
-
-https://github.com/achrafbilal/ecom-control-jee/blob/main/Controle_JEE_Rapport.pdf
-
-### Google Drive Report Link
-
-https://drive.google.com/file/d/161TQKIJqZMYSm1LrQZzB5kFEzAgyN2iU/view?usp=share_link
-
 ### Installing
 
 - Change the application.properties files in the config service and set your own configuration path
@@ -58,4 +46,4 @@ ng serve
 
 Contributors names and contact info
 
-Bilal Achraf [@bilalachraf]
+CHAFIKI ZINEB
