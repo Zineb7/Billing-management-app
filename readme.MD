@@ -1,4 +1,4 @@
-# ecom-control-jee
+# Billing Management App
 
 This project is created in response to a school examination
 
